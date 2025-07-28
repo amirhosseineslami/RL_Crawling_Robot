@@ -36,8 +36,9 @@ Implemented basic Q-learning logic in Arduino C++ to control servo positions bas
 
 ## 📷 Preview
 
-![Crawling Robot](docs/crawling-demo.gif)
-
+![Crawling Robot](docs/robot-1.jpg)
+![Crawling Robot](docs/robot-2.jpg)
+![Crawling Robot](docs/arduino-screenshot-0.jpg)
 ---
 
 ## 🔄 How to Run
