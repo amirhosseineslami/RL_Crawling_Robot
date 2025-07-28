@@ -25,4 +25,24 @@ Implemented basic Q-learning logic in Arduino C++ to control servo positions bas
 ---
 
 ## 🛠️ Folder Structure
+.
+├── code/ ← RL logic (Arduino .ino)
+├── models/ ← 3D CAD files (.3dm, .stl)
+├── docs/ ← Wiring, assembly, GIF demo
+└── README.md ← You are here
+
+
+---
+
+## 📷 Preview
+
+![Crawling Robot](docs/crawling-demo.gif)
+
+---
+
+## 🔄 How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/rl-crawling-robot.git
 
